@@ -16,10 +16,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gwoprk98&layout=compact&theme=dracula)
 
 
-### Tech stack
 
-<img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=OpenJDK&logoColor=white"/> <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>  <img alt="Spring Boot" src ="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=for-the-badge&logo=Spring Boot&logoColor=white"/> 
-<img alt="Thyme leaf" src ="https://img.shields.io/badge/Thyme leaf-005F0F.svg?&style=for-the-badge&logo=Thymeleaf&logoColor=white"/> 
-<img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/> 
-<img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"/> 
 
