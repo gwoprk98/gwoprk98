@@ -6,4 +6,4 @@
 
 ## 📕 Latest Blog Posts
 
-<ul><li><a href='https://velog.io/@gwoprk/%ED%85%8C%EC%8A%A4%ED%8A%B8' target='_blank'>테스트</a></li></ul>
+<ul><li><a href='https://velog.io/@gwoprk/Github-%EB%B2%A8%EB%A1%9C%EA%B7%B8%EC%99%80-%EA%B9%83%ED%97%88%EB%B8%8C-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0' target='_blank'>[Github] 벨로그와 깃허브 연동하기</a></li></ul>
