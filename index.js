@@ -29,7 +29,7 @@ const parser = new Parser({
 (async () => {
 
     // 피드 목록
-    const feed = await parser.parseURL('https://v2.velog.io/rss/gnu'); // 본인의 블로그 주소
+    const feed = await parser.parseURL('https://v2.velog.io/rss/gwoprk'); // 본인의 블로그 주소
     
     text += `<ul>`;
     
