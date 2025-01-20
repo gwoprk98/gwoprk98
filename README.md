@@ -1,13 +1,8 @@
 # Hi there 👋
 
-## 이런 환경에 익숙해요✍🏼
-
-## 언어
-
-<p>
-  <img alt="" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
-  <img alt="" src= "https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=blue"/>
-</p>
+- 백엔드 개발자 박건우입니다.
+- 자바와 스프링을 주로 사용하고 공부합니다.
+- 누구나 쉽게 접근할 수 있고 이해가능한 코드가 좋은 코드라 생각합니다.
 
 ## 📕 Latest Blog Posts
 
